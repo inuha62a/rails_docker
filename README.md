@@ -1,1 +1,1 @@
-# rails_new
+# rails_docker
